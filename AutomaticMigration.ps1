@@ -1,8 +1,8 @@
-#$CurrentSiteID = "C:\Users\paul.vazquez\Documents\Logs\CurrentSiteID.txt"
+$currentUser = "Paul Vazquez"
 $Logs = "C:\Users\paul.vazquez\Documents\Logs\Logs.txt"
 $PassPath = "C:\Users\paul.vazquez\Desktop\PassPath.txt"
 $Sites = Import-Csv "C:\Users\paul.vazquez\Documents\QueueTest.csv"
-$currentUser = "Paul Vazquez"
+
 function Write-Log {
     param([string] $value)
     $Stamp = (Get-Date).toString("yyyy/MM/dd HH:mm:ss")
@@ -26,8 +26,6 @@ function Migrate-Site {
     Copy-ObjectPermissions -Source $srcSite -Destination $dstSite
     Write-Log "End of migration"
 }
-#$test = Get-Content $CurrentSiteID -Tail 1
-#$test = [System.Decimal]::Parse($test)
 Add-Content -Path $Logs -Value "-----------------------------------"
 foreach ($line in $Sites){
     if(($line.("Status") -ne "MIGRATED") -and ($line.("Status") -ne "SKIP") ){
@@ -41,9 +39,6 @@ foreach ($line in $Sites){
         else{
             Write-Log "El sitio con ID: $ID no esta asignado a $currentUser"
         }
-        #$test++
-        #Set-Content -Path $CurrentSiteID -Value $test
-        #Write-Log -value "El ID del sigiente sitio a migrar es $test"
     }
 }
 $Sites | Export-Csv -Path 'C:\Users\paul.vazquez\Documents\UCSVTestFile-temp.csv' -NoTypeInformation 
