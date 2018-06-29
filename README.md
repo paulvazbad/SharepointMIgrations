@@ -1,0 +1,2 @@
+# SharepointMIgrations
+Powershell mini scripts
