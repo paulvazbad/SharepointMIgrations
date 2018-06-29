@@ -80,10 +80,11 @@ El script revisa cada renglon del documento secuencialmente. Es necesario que ex
 | AssignedTo | El nombre del usuario actual (Tiene que ser igual al string que esta al principio del script).
 |Status | Estatus de la migracion (Puede no contener info, pero tiene que estar la columna).
 ### Ejemplo
-Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. <br>
+Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. **Cada renglon representa una columna, se transpuso para mejorar la visualizacion** <br>
 
-| ID            | 0                                                          |
+| Columna       | Elemento                                                   |
 |---------------|------------------------------------------------------------|
+| ID            | 0                                                          |
 | Title         | Boat Builder Excellence Program                            |
 | SourceSite    | http://navigator/sites/pmo/Projects/Special_Projects/BBEP/ |
 | AssignedTo    | Paul Vazquez                                               |
