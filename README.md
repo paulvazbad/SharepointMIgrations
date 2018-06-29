@@ -79,11 +79,23 @@ El script revisa cada renglon del documento secuencialmente. Es necesario que ex
 | NewParentSite | URL de destino del nuevo sitio padre en Sharepoint Online. |
 | AssignedTo | El nombre del usuario actual (Tiene que ser igual al string que esta al principio del script).
 |Status | Estatus de la migracion (Puede no contener info, pero tiene que estar la columna).
+
 ### Ejemplo
-Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. <br>
-| ID | Title                           | SourceSite                                                 | AssignedTo   |  Owner         | To Do          | Status   | Notes | Priority | ParentSite                                            | Item Type | Path                                 | NewParentSite                      |
-|----|---------------------------------|------------------------------------------------------------|--------------|----------------|----------------|----------|-------|----------|-------------------------------------------------------|-----------|--------------------------------------|------------------------------------|
-| 0  | Boat Builder Excellence Program | http://navigator/sites/pmo/Projects/Special_Projects/BBEP/ | Paul Vazquez | Laurie Fernald | Migrate to SPO | MIGRATED |       | 3        | http://navigator/sites/pmo/Projects/Special_Projects/ | Item      | sites/global/it/Lists/MigrationSites | https://navico.sharepoint.com/test |
+Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. **Cada renglon representa una columna, se transpuso para mejorar la visualizacion** <br>
+| ID            | 0                                                          |
+|---------------|------------------------------------------------------------|
+| Title         | Boat Builder Excellence Program                            |
+| SourceSite    | http://navigator/sites/pmo/Projects/Special_Projects/BBEP/ |
+| AssignedTo    | Paul Vazquez                                               |
+|  Owner        | Laurie Fernald                                             |
+| To Do         | Migrate to SPO                                             |
+| Status        | MIGRATED                                                   |
+| Notes         |                                                            |
+| Priority      | 3                                                          |
+| ParentSite    | http://navigator/sites/pmo/Projects/Special_Projects/      |
+| Item Type     | Item                                                       |
+| Path          | sites/global/it/Lists/MigrationSites                       |
+| NewParentSite | https://navico.sharepoint.com/test                         |
 
 ## Links
 ### Scripts
