@@ -81,9 +81,9 @@ El script revisa cada renglon del documento secuencialmente. Es necesario que ex
 |Status | Estatus de la migracion (Puede no contener info, pero tiene que estar la columna).
 ### Ejemplo
 Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. <br>
-| ID  | Title  | SourceSite | AssignedTo | Owner | To Do | Status | Notes | Priority | ParentSite | Item Type | Path | NewParentSite |
-| --- | :----: | ---------- | -----------| ----- | ----- | ----- | ----- | --------- | ---------- | --------- | ---- | ------------- |
-| 0 | Boat Builder Excellence Program | http://navigator/sites/pmo/Projects/Special_Projects/BBEP/ | Paul Vazquez | Laurie Fernald | Migrate to SPO | IN PROGRESS | Empty | 3 | http://navigator/sites/pmo/Projects/Special_Projects/ | Item | sites/global/it/Lists/MigrationSites | https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/ |
+| ID | Title                           | SourceSite                                                 | AssignedTo   |  Owner         | To Do          | Status   | Notes | Priority | ParentSite                                            | Item Type | Path                                 | NewParentSite                      |
+|----|---------------------------------|------------------------------------------------------------|--------------|----------------|----------------|----------|-------|----------|-------------------------------------------------------|-----------|--------------------------------------|------------------------------------|
+| 0  | Boat Builder Excellence Program | http://navigator/sites/pmo/Projects/Special_Projects/BBEP/ | Paul Vazquez | Laurie Fernald | Migrate to SPO | MIGRATED |       | 3        | http://navigator/sites/pmo/Projects/Special_Projects/ | Item      | sites/global/it/Lists/MigrationSites | https://navico.sharepoint.com/test |
 
 ## Links
 ### Scripts
