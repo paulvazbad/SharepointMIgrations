@@ -99,7 +99,7 @@ Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porqu
 | NewParentSite | https://navico.sharepoint.com/test                         |
 
 ## Windows Taks Scheduler
-Para que las migraciones se realizen automaticamente es necesario agendarlas a cierta hora en el windows Task Scheduler.
+Para que las migraciones se realicen automaticamente es necesario agendarlas a cierta hora en el Windows Task Scheduler.
 Estos son los pasos a seguir:
 1. Abir el programa y seleccionar _Create Task_.
 <img src="https://image.ibb.co/e1MmGd/0.png" alt="0" border="0">
