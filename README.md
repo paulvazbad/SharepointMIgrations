@@ -79,9 +79,9 @@ El script revisa cada renglon del documento secuencialmente. Es necesario que ex
 | NewParentSite | URL de destino del nuevo sitio padre en Sharepoint Online. |
 | AssignedTo | El nombre del usuario actual (Tiene que ser igual al string que esta al principio del script).
 |Status | Estatus de la migracion (Puede no contener info, pero tiene que estar la columna).
-
 ### Ejemplo
-Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. **Cada renglon representa una columna, se transpuso para mejorar la visualizacion** <br>
+Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porque lo exporte directamente de la lista "Sitios a Migrar" de Sharepoint Online). No afectan. <br>
+
 | ID            | 0                                                          |
 |---------------|------------------------------------------------------------|
 | Title         | Boat Builder Excellence Program                            |
@@ -97,29 +97,22 @@ Ejemplo de como se veria un renglon del archivo csv (Tiene columnas extras porqu
 | Path          | sites/global/it/Lists/MigrationSites                       |
 | NewParentSite | https://navico.sharepoint.com/test                         |
 
+## Windows Taks Scheduler
+Para que las migraciones se realizen automaticamente es necesario agendarlas a cierta hora en el windows Task Scheduler.
+Estos son los pasos a seguir:
+1. Abir el programa y seleccionar _Create Task_.
+<img src="https://image.ibb.co/e1MmGd/0.png" alt="0" border="0">
+2. En la seccion de _Create Task_ es importante habilitar la opcion de _Run wheter user is logged on or not_. <br>
+<img src="https://image.ibb.co/mSD8wd/1.png" alt="1" border="0">
+3. Luego de llenar esa ventana ir a la seccion de *Triggers* y seleccionar *New Trigger*. Seleccionar la hora de ejecucion. <br>
+<img src="https://image.ibb.co/bujsNJ/2.png" alt="2" border="0">
+4. Posteriormente acceder a la seccion de Actions y seleccionar *New Action*. En la opcion de _Program/Script_ escribir Powershell.exe y en _Add arguments_ incluir el path al script con terminacion .ps1 de las migraciones. <br>
+<img src="https://image.ibb.co/dr1vbd/3.png" alt="3" border="0">
+5. Finalmente en la pestaña de  *Conditions* seleccionar *Wake the computer to run this Task*.
+
+
 ## Links
 ### Scripts
 
-[Script de powershell] (https://codeshare.io/5ovA8X) <br>
-[Script PassPath] (https://codeshare.io/GL64Ve) <br>
-
-## Windows Task Scheduler
-Para que el script se ejecute en horario fuera de oficina es necesario agendar una tarea en el Windows Task Scheduler con la hora de ejecucion y los parametros del programa.<br>
-![logo] (https://preview.ibb.co/h6Qowd/0.png) 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Script de migraciones](https://codeshare.io/5ovA8X) <br>
+[Script de PassPath](https://codeshare.io/GL64Ve)
