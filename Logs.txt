@@ -1,0 +1,172 @@
+2018/06/26 22:41:59 ID:1  
+2018/06/26 22:41:59 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Bronze/
+2018/06/26 22:42:02 Copysettings set to IncrementalUpdate
+2018/06/26 22:42:10 Source: http://navigator/sites/pmo/Projects/Special_Projects/Bronze/ Destination: https://navico.sharepoint.com/test/
+2018/06/26 22:53:12 End of migration
+2018/06/26 22:53:12 El ID del sigiente sitio a migrar es 2
+2018/06/26 22:53:12 ID:2  
+2018/06/26 22:53:12 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Buybook2/
+2018/06/26 22:53:13 Copysettings set to IncrementalUpdate
+2018/06/26 22:53:19 Source:  Destination: https://navico.sharepoint.com/test/
+2018/06/26 22:53:19 End of migration
+2018/06/26 22:53:19 El ID del sigiente sitio a migrar es 3
+2018/06/26 22:53:19 ID:3  
+2018/06/26 22:53:19 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/CLC_Vendor_Portal/
+2018/06/26 22:53:19 Copysettings set to IncrementalUpdate
+2018/06/26 22:53:27 Source: http://navigator/sites/pmo/Projects/Special_Projects/CLC_Vendor_Portal/ Destination: https://navico.sharepoint.com/test/
+2018/06/26 23:00:53 End of migration
+2018/06/26 23:00:53 El ID del sigiente sitio a migrar es 4
+---------------------------------------------------------------------------
+Prueba
+2018/06/27 09:35:35 ID:3  
+2018/06/27 09:35:35 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/CLC_Vendor_Portal/
+2018/06/27 09:35:35 Copysettings set to IncrementalUpdate
+2018/06/27 09:36:04 Source: http://navigator/sites/pmo/Projects/Special_Projects/CLC_Vendor_Portal/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+--------------------------------------------------------------------------------------------------------------
+2018/06/27 21:00:03 ID:5  
+2018/06/27 21:00:03 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/CR_action/
+2018/06/27 21:00:08 Copysettings set to IncrementalUpdate
+2018/06/27 21:00:18 Source: http://navigator/sites/pmo/Projects/Special_Projects/CR_action/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:07:46 Operation completed with errors.
+2018/06/27 21:07:53 End of migration
+2018/06/27 21:07:54 El ID del sigiente sitio a migrar es 6
+2018/06/27 21:07:54 ID:6  
+2018/06/27 21:07:54 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/DSPF/
+2018/06/27 21:07:54 Copysettings set to IncrementalUpdate
+2018/06/27 21:08:02 Source: http://navigator/sites/pmo/Projects/Special_Projects/DSPF/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:15:38 Operation completed with errors.
+2018/06/27 21:15:44 End of migration
+2018/06/27 21:15:44 El ID del sigiente sitio a migrar es 7
+2018/06/27 21:15:44 ID:7  
+2018/06/27 21:15:44 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Employee-Survey/Emp/
+2018/06/27 21:15:44 Copysettings set to IncrementalUpdate
+2018/06/27 21:15:52 Source: http://navigator/sites/pmo/Projects/Special_Projects/Employee-Survey/Emp/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:21:22 Operation completed with errors.
+2018/06/27 21:21:28 End of migration
+2018/06/27 21:21:28 El ID del sigiente sitio a migrar es 8
+2018/06/27 21:21:28 ID:8  
+2018/06/27 21:21:28 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/FCR_2/
+2018/06/27 21:21:28 Copysettings set to IncrementalUpdate
+2018/06/27 21:21:36 Source: http://navigator/sites/pmo/Projects/Special_Projects/FCR_2/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:30:24 Operation completed with errors.
+2018/06/27 21:30:44 End of migration
+2018/06/27 21:30:44 El ID del sigiente sitio a migrar es 9
+2018/06/27 21:30:44 ID:9  
+2018/06/27 21:30:44 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Kanye/
+2018/06/27 21:30:44 Copysettings set to IncrementalUpdate
+2018/06/27 21:30:52 Source: http://navigator/sites/pmo/Projects/Special_Projects/Kanye/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:38:23 Operation completed with errors.
+2018/06/27 21:38:44 End of migration
+2018/06/27 21:38:44 El ID del sigiente sitio a migrar es 10
+2018/06/27 21:38:44 ID:10  
+2018/06/27 21:38:44 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/HotWire/
+2018/06/27 21:38:44 Copysettings set to IncrementalUpdate
+2018/06/27 21:38:51 Source: http://navigator/sites/pmo/Projects/Special_Projects/HotWire/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:44:37 Operation completed with errors.
+2018/06/27 21:44:56 End of migration
+2018/06/27 21:44:56 El ID del sigiente sitio a migrar es 11
+2018/06/27 21:44:56 ID:11  
+2018/06/27 21:44:56 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Kanye/
+2018/06/27 21:44:56 Copysettings set to IncrementalUpdate
+2018/06/27 21:45:04 Source: http://navigator/sites/pmo/Projects/Special_Projects/Kanye/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:51:22 Operation completed with errors.
+2018/06/27 21:51:37 End of migration
+2018/06/27 21:51:37 El ID del sigiente sitio a migrar es 12
+2018/06/27 21:51:37 ID:12  
+2018/06/27 21:51:37 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Fenton/
+2018/06/27 21:51:37 Copysettings set to IncrementalUpdate
+2018/06/27 21:51:45 Source: http://navigator/sites/pmo/Projects/Special_Projects/Fenton/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/27 21:59:01 Operation completed with errors.
+2018/06/27 21:59:14 End of migration
+2018/06/27 21:59:14 El ID del sigiente sitio a migrar es 13
+-----------------------------------
+2018/06/29 21:00:00 ID:19  Empowerment
+2018/06/29 21:00:01 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Employee-Survey/Emp/
+2018/06/29 21:00:04 Copysettings set to IncrementalUpdate
+2018/06/29 21:00:12 Source: http://navigator/sites/pmo/Projects/Special_Projects/Employee-Survey/Emp/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/Employee-Survey/
+2018/06/29 21:06:55 Operation completed with errors.
+2018/06/29 21:07:05 End of migration
+2018/06/29 21:07:05 ID:20  Evo 2 / Zeus 2 New Production
+2018/06/29 21:07:05 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/evo2zeus2/
+2018/06/29 21:07:05 Copysettings set to IncrementalUpdate
+2018/06/29 21:07:14 Source: http://navigator/sites/pmo/Projects/Special_Projects/evo2zeus2/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 21:17:25 Operation completed with errors.
+2018/06/29 21:17:38 End of migration
+2018/06/29 21:17:38 ID:21  Global Solution PCR Approvals
+2018/06/29 21:17:38 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Global_Solution_PCR_Approvals/
+2018/06/29 21:17:38 Copysettings set to IncrementalUpdate
+2018/06/29 21:17:45 Source: http://navigator/sites/pmo/Projects/Special_Projects/Global_Solution_PCR_Approvals/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 21:27:40 Operation completed with errors.
+2018/06/29 21:27:49 End of migration
+2018/06/29 21:27:49 ID:22  Global Quality
+2018/06/29 21:27:49 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/GQ/
+2018/06/29 21:27:49 Copysettings set to IncrementalUpdate
+2018/06/29 21:27:57 Source: http://navigator/sites/pmo/Projects/Special_Projects/GQ/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 21:58:28 Operation completed with errors.
+2018/06/29 21:58:45 End of migration
+2018/06/29 21:58:45 ID:23  Internal Communications
+2018/06/29 21:58:45 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Internal-Communications/
+2018/06/29 21:58:45 Copysettings set to IncrementalUpdate
+2018/06/29 21:58:52 Source: http://navigator/sites/pmo/Projects/Special_Projects/Internal-Communications/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 22:09:02 Operation completed with errors.
+2018/06/29 22:09:15 End of migration
+2018/06/29 22:09:15 ID:24  Internal Comms Solution
+2018/06/29 22:09:15 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Internal_Comms_Solution/
+2018/06/29 22:09:15 Copysettings set to IncrementalUpdate
+2018/06/29 22:09:23 Source: http://navigator/sites/pmo/Projects/Special_Projects/Internal_Comms_Solution/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 22:18:25 Operation completed with errors.
+2018/06/29 22:18:34 End of migration
+2018/06/29 22:18:34 ID:25  Management System Phase II
+2018/06/29 22:18:34 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/msp2/
+2018/06/29 22:18:35 Copysettings set to IncrementalUpdate
+2018/06/29 22:18:42 Source: http://navigator/sites/pmo/Projects/Special_Projects/msp2/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 22:27:26 Operation completed with errors.
+2018/06/29 22:27:42 End of migration
+2018/06/29 22:27:42 ID:26  MARIS Integration
+2018/06/29 22:27:42 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/MARIS/
+2018/06/29 22:27:42 Copysettings set to IncrementalUpdate
+2018/06/29 22:27:50 Source: http://navigator/sites/pmo/Projects/Special_Projects/MARIS/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 22:58:20 Operation completed with errors.
+2018/06/29 22:58:38 End of migration
+2018/06/29 22:58:38 ID:27  Management System
+2018/06/29 22:58:38 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Management-System/
+2018/06/29 22:58:38 Copysettings set to IncrementalUpdate
+2018/06/29 22:58:45 Source: http://navigator/sites/pmo/Projects/Special_Projects/Management-System/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:06:53 Operation completed with errors.
+2018/06/29 23:07:08 End of migration
+2018/06/29 23:07:08 ID:28  Loyalty Program
+2018/06/29 23:07:08 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/Loyalty_Program/
+2018/06/29 23:07:08 Copysettings set to IncrementalUpdate
+2018/06/29 23:07:16 Source: http://navigator/sites/pmo/Projects/Special_Projects/Loyalty_Program/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:15:38 Operation completed with errors.
+2018/06/29 23:15:46 End of migration
+2018/06/29 23:15:46 ID:29  Navico Technology Roadmap Process
+2018/06/29 23:15:46 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/ntrp/
+2018/06/29 23:15:46 Copysettings set to IncrementalUpdate
+2018/06/29 23:15:53 Source: http://navigator/sites/pmo/Projects/Special_Projects/ntrp/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:22:20 Operation completed with errors.
+2018/06/29 23:22:37 End of migration
+2018/06/29 23:22:37 ID:30  MRO System
+2018/06/29 23:22:37 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/MRO/
+2018/06/29 23:22:37 Copysettings set to IncrementalUpdate
+2018/06/29 23:22:44 Source: http://navigator/sites/pmo/Projects/Special_Projects/MRO/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:30:15 Operation completed with errors.
+2018/06/29 23:30:33 End of migration
+2018/06/29 23:30:33 ID:31  MCP ? ERP integration
+2018/06/29 23:30:33 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/MCP_ERP/
+2018/06/29 23:30:33 Copysettings set to IncrementalUpdate
+2018/06/29 23:30:40 Source: http://navigator/sites/pmo/Projects/Special_Projects/MCP_ERP/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:38:23 Operation completed with errors.
+2018/06/29 23:38:30 End of migration
+2018/06/29 23:38:30 ID:32  Performance Review Process Phase 2
+2018/06/29 23:38:30 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/PerfRevPro2/
+2018/06/29 23:38:30 Copysettings set to IncrementalUpdate
+2018/06/29 23:38:37 Source: http://navigator/sites/pmo/Projects/Special_Projects/PerfRevPro2/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:46:22 Operation completed with errors.
+2018/06/29 23:46:37 End of migration
+2018/06/29 23:46:38 ID:33  PIM
+2018/06/29 23:46:38 Starting Migration attempt of http://navigator/sites/pmo/Projects/Special_Projects/PIM/
+2018/06/29 23:46:38 Copysettings set to IncrementalUpdate
+2018/06/29 23:46:45 Source: http://navigator/sites/pmo/Projects/Special_Projects/PIM/ Destination: https://navico.sharepoint.com/sites/global/pmo/projects/Special_Projects/
+2018/06/29 23:54:21 Operation completed with errors.
+2018/06/29 23:54:28 End of migration
